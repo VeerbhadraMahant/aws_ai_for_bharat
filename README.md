@@ -234,4 +234,8 @@ This project is developed for the AWS AI for Bharat Hackathon, addressing the cr
 
 - AWS AI for Bharat Hackathon organizers
 - Healthcare professionals providing domain expertise
+<<<<<<< HEAD
 - Open-source medical imaging datasets and communities
+=======
+- Open-source medical imaging datasets and communities
+>>>>>>> 92ba867 (Initial commit)
